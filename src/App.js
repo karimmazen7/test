@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>test-app-kimzz</h1>
+      <h1>test-app-k</h1>
       <h1 className="title">kimzz</h1>
       <h2>contrlol</h2>
     </>
